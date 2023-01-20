@@ -1,0 +1,25 @@
+﻿  Collison.cpp
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(23,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(24,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(37,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(38,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ECS.cpp
+  Game.cpp
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(23,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(24,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(37,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(38,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\Game.cpp(139,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Dev\proiectPOO - texturi\Project2\Game.cpp(170,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\Game.cpp(171,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  Map.cpp
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(23,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(24,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(37,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Dev\proiectPOO - texturi\Project2\TileComponent.h(38,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  TextureManager.cpp
+  Vector2D.cpp
+  main.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Dev\proiectPOO - texturi\x64\Debug\Project2.exe
